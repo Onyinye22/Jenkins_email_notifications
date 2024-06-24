@@ -4,7 +4,7 @@ pipeline {
     environment {
         // Set email addresses for notification
         RECIPIENTS = 'estheronyinye011@gmail.com, danielofurutech@gmail.com, goodnessm508@gmail.com.com, guddytechs@gmail.com'
-        SENDER = 'estheronyinye011@gmail.com'
+        SENDER = 'ijeonyinye22@gmail.com'
     }
 
     stages {
